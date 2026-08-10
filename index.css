@@ -1,0 +1,10 @@
+
+body {
+    background-image: url('./pic.jpg');
+    color: aliceblue;
+    background-repeat: no-repeat ;
+    background-size: cover;
+    margin: 0;
+    height: 100vh;
+    font-size: 40px;
+}
